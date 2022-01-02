@@ -36,6 +36,6 @@ To run, run
     `./run`
 
 # Gameplay gallery
-![plot](../../doc/gallery/input_phase1.png)
-![plot](../../doc/gallery/placement_phase1.png)
-![plot](../../doc/gallery/movement_phase1.png)
+![plot](doc/gallery/input_phase1.png)
+![plot](doc/gallery/placement_phase1.png)
+![plot](doc/gallery/movement_phase1.png)
