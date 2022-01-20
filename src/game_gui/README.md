@@ -26,7 +26,7 @@ We have created Shell scripts to automate the process of configuring, building a
 In case of using **Windows**, code inside above Shell scripts should be run manually and use CMake GUI app for building.
 
 # Gameplay gallery
-![plot](../doc/gallery/input_phase1.png)
-![plot](../doc/gallery/placement_phase1.png)
-![plot](../doc/gallery/movement_phase1.png)
+![plot](../../doc/gallery/input_phase1.png)
+![plot](../../doc/gallery/placement_phase1.png)
+![plot](../../doc/gallery/movement_phase1.png)
 
